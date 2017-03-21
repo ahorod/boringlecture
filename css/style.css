@@ -10,3 +10,12 @@ img.intro {
   border-style: solid;
   width: 50%;
 }
+
+.highlight{
+  background-color: #f4f75b;
+  border: 2px solid black;
+}
+.highlightB {
+background-color: #5be5f7;
+border: 2px solid black;
+}
